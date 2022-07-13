@@ -5,7 +5,7 @@ const getLoginForm = (req,res)=>{
     return res.render('login/layout')
 }
 
-const login = async(req,res)={}
+const login = async(req,res)=>{}
 
 const getSignupForm = (req,res)=>{
     return res.render ('signup/layout')
